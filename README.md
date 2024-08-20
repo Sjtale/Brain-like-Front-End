@@ -2,7 +2,7 @@
 
 This project aims to enhance the robustness of Convolutional Neural Networks (CNNs) by incorporating biologically-inspired models of the human visual cortex. The developed front-end, named **V++**, integrates four regions of the visual cortex (V1, V2, V4, IT) to improve object recognition capabilities under various types of noise and disturbances.
 
-<img src="Images/VoneNetArchi.png" alt="Model Architecture" width="500" height="300"/>
+<img src="Images/VoneNetArchi.png" alt="Model Architecture" width="500" height="500"/>
 
 ## Overview
 
