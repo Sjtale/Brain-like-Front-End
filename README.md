@@ -57,7 +57,8 @@ The model is structured to simulate the visual processing pathways in the brain:
 | IT    | Object recognition and identification.     |
 
 
-![Detailed Architecture](https://github.com/yourusername/yourrepository/path/to/detailed_architecture_image.png)
+![Detailed Architecture](Images/Archi.png)
+<img src="Images/Archi.png" alt="Detailed Architecture" width="500" height="300"/>
 
 ## Evaluation
 
