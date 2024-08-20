@@ -49,12 +49,13 @@ python evaluate.py --model-path models/trained_model.pth
 
 The model is structured to simulate the visual processing pathways in the brain:
 
-\| Layer \| Description                                 \|
-\|-------\|---------------------------------------------\|
-\| V1    \| Edge detection and orientation analysis.    \|
-\| V2    \| Complex pattern detection.                  \|
-\| V4    \| Shape and color processing.                 \|
-\| IT    \| Object recognition and identification.      \|
+| Layer | Description                                |
+|-------|--------------------------------------------|
+| V1    | Edge detection and orientation analysis.   |
+| V2    | Complex pattern detection.                 |
+| V4    | Shape and color processing.                |
+| IT    | Object recognition and identification.     |
+
 
 ![Detailed Architecture](https://github.com/yourusername/yourrepository/path/to/detailed_architecture_image.png)
 
@@ -62,12 +63,12 @@ The model is structured to simulate the visual processing pathways in the brain:
 
 The model's robustness is tested against several types of noise:
 
-\| Noise Type       \| Description                                      \|
-\|------------------\|--------------------------------------------------\|
-\| Gaussian Noise   \| Random noise added to pixel values.              \|
-\| Salt and Pepper  \| Random black and white pixels scattered in image.\|
-\| Motion Blur      \| Simulates the effect of object movement.         \|
-\| Occlusion        \| Parts of the image are covered or missing.       \|
+| Noise Type       | Description                                      |
+|------------------|--------------------------------------------------|
+| Gaussian Noise   | Random noise added to pixel values.              |
+| Salt and Pepper  | Random black and white pixels scattered in image.|
+| Motion Blur      | Simulates the effect of object movement.         |
+| Occlusion        | Parts of the image are covered or missing.       |
 
 To run the evaluation, use:
 
