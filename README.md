@@ -25,8 +25,8 @@ This repository contains the source code and data for the project, including:
 To run this project, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/yourrepository.git
-cd yourrepository
+git clone https://github.com/Sjtale/Brain-like-Front-End.git
+cd Brain-like-Front-End
 pip install -r requirements.txt
 ```
 ## Usage
